@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>vị trí tổng thể</item>
+        <item>vị trí chính xác</item>
+        <item>GPS</item>
+        <item>rung</item>
+        <item>đọc danh sách liên hệ</item>
+        <item>sửa đổi danh sách liên hệ</item>
+        <item>đọc nhật ký cuộc gọi</item>
+        <item>sửa đổi nhật ký cuộc gọi</item>
+        <item>đọc lịch</item>
+        <item>sửa đổi lịch</item>
+        <item>quét wi-fi</item>
+        <item>thông báo</item>
+        <item>quét điện thoại di động</item>
+        <item>gọi điện thoại</item>
+        <item>đọc SMS</item>
+        <item>soạn SMS</item>
+        <item>nhận SMS</item>
+        <item>nhận SMS khẩn cấp</item>
+        <item>nhận MMS</item>
+        <item>nhận WAP push</item>
+        <item>gửi SMS</item>
+        <item>đọc ICC SMS</item>
+        <item>soạn ICC SMS</item>
+        <item>sửa đổi cài đặt</item>
+        <item>vẽ lên trên</item>
+        <item>truy cập thông báo</item>
+        <item>máy ảnh</item>
+        <item>ghi âm</item>
+        <item>phát âm thanh</item>
+        <item>đọc khay nhớ tạm</item>
+        <item>sửa đổi khay nhớ tạm</item>
+        <item>wifi change</item>
+        <item>bluetooth change</item>
+        <item>data change</item>
+        <item>send MMS</item>
+        <item>read MMS</item>
+        <item>write MMS</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Vị trí</item>
+        <item>Vị trí</item>
+        <item>Vị trí</item>
+        <item>Rung</item>
+        <item>Đọc danh bạ</item>
+        <item>Sửa đổi danh bạ</item>
+        <item>Đọc nhật ký cuộc gọi</item>
+        <item>Sửa đổi nhật ký cuộc gọi</item>
+        <item>Đọc lịch</item>
+        <item>Sửa đổi lịch</item>
+        <item>Vị trí</item>
+        <item>Đăng thông báo</item>
+        <item>Vị trí</item>
+        <item>Gọi điện thoại</item>
+        <item>Nhận SMS/MMS</item>
+        <item>Gửi SMS/MMS</item>
+        <item>Nhận SMS/MMS</item>
+        <item>Nhận SMS/MMS</item>
+        <item>Nhận SMS/MMS</item>
+        <item>Nhận SMS/MMS</item>
+        <item>Gửi SMS/MMS</item>
+        <item>Nhận SMS/MMS</item>
+        <item>Gửi SMS/MMS</item>
+        <item>Sửa đổi cài đặt</item>
+        <item>Vẽ lên trên</item>
+        <item>Truy cập thông báo</item>
+        <item>Máy ảnh</item>
+        <item>Ghi âm</item>
+        <item>Phát âm thanh</item>
+        <item>Đọc khay nhớ tạm</item>
+        <item>Sửa đổi khay nhớ tạm</item>
+        <item>WLAN change</item>
+        <item>Bluetooth change</item>
+        <item>Data change</item>
+        <item>Send MMS</item>
+        <item>Read MMS</item>
+        <item>Write MMS</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>WLAN ASCII</item>
+        <item>WLAN hexadecimal</item>
+    </string-array>
+</resources>

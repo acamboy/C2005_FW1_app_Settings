@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="radio_controls_summary">"Bestuur WLAN, Bluetooth, vliegtuigmodus, mobiele netwerke en VPN'e"</string>
+    <string name="wifi_display_settings_empty_list_wifi_display_disabled">Draadlose skerm is gedeaktiveer omdat WLAN af is.</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">Skakel WLAN aan</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">WLAN-instellings</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_setup_wizard_title">Kies WLAN</string>
+    <string name="wifi_starting">Skakel tans WLAN aan…</string>
+    <string name="wifi_stopping">Skakel tans WLAN af…</string>
+    <string name="wifi_poor_network_detection_summary">"Moenie 'n WLAN-netwerk gebruik tensy dit 'n goeie internetverbinding het nie"</string>
+    <string name="wifi_scan_always_available_summary">Laat Google se liggingdiens en ander programme skandeer vir netwerke, selfs wanneer WLAN af is</string>
+    <string name="wifi_scan_notify_text_location_on">Om akkuraatheid te verbeter en vir ander doeleindes, kan Google en ander programme dalk skandeer vir nabygeleë netwerke, selfs wanneer WLAN af is. As jy nie wil hê dat dit gebeur nie, gaan na Gevorderd > Skandering altyd beskikbaar.</string>
+    <string name="wifi_scan_notify_text_location_off">Programme kan dalk skandeer vir nabygeleë netwerke, selfs wanneer WLAN af is. As jy nie wil hê dat dit gebeur nie, gaan na Gevorderd > Skandering altyd beskikbaar.</string>
+    <string name="wifi_setting_sleep_policy_title">Hou WLAN aan tydens sluimer</string>
+    <string name="wifi_suspend_optimizations">WLAN-optimering</string>
+    <string name="wifi_suspend_optimizations_summary">Minimaliseer batterygebruik wanneer WLAN aan is</string>
+    <string name="wifi_access_points">WLAN-netwerke</string>
+    <string name="wifi_menu_p2p">WLAN Direct</string>
+    <string name="wifi_empty_list_wifi_off">Om beskikbare netwerke te sien, skakel WLAN aan.</string>
+    <string name="wifi_empty_list_wifi_on">Soek tans vir WLAN-netwerke…</string>
+    <string name="wifi_empty_list_user_restricted">Jy het nie toestemming om die WLAN-netwerk te verander nie.</string>
+    <string name="wifi_required_info_text">Om opstelling te voltooi, moet jou tablet toegang hê tot WLAN. Na opstelling kan jy wissel tussen mobiele data en WLAN.</string>
+    <string name="wifi_wps_setup_title">WLAN-beskermde-opstelling</string>
+    <string name="wifi_wps_onstart_pbc">Druk die WLAN-beskermdeopstellingknoppie op jou roeteerder. Dit word moontlik \"WPS\" genoem of bevat hierdie simbool:</string>
+    <string name="wifi_wps_onstart_pin">Voer die pin %1$s op jou WLAN-roeteerder in. Die opstelling kan tot twee minute neem om voltooi te word.</string>
+    <string name="wifi_wps_connected">Gekoppel aan WLAN-netwerk %s</string>
+    <string name="wifi_scan_always_turnon_message">"Om liggingsakkuraatheid te verbeter en vir ander doele, wil %1$s netwerkskandering aanskakel, selfs wanneer WLAN af is.
+
+ Laat dit toe vir alle programme wat wil skandeer?"</string>
+    <string name="wifi_connect_failed_message">Die foon kon nie aan hierdie WLAN-netwerk koppel nie.</string>
+    <string name="wifi_advanced_titlebar">Gevorderde WLAN</string>
+    <string name="wifi_setting_frequency_band_title">WLAN-frekwensieband</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_tether_checkbox_text">Draagbare WLAN-warmkol</string>
+    <string name="wifi_tether_starting">Skakel tans WLAN-warmkol aan...</string>
+    <string name="wifi_tether_stopping">Skakel tans WLAN-warmkol af...</string>
+    <string name="wifi_tether_enabled_subtext">WLAN-warmkol %1$s aktief</string>
+    <string name="wifi_tether_failed_subtext">Fout met draagbare WLAN-warmkol</string>
+    <string name="wifi_tether_configure_ap_text">Stel WLAN-warmkol op</string>
+    <string name="wifi_tether_configure_subtext">%1$s %2$s draagbare WLAN-warmkol</string>
+    <string name="status_wifi_mac_address">WLAN-MAC-adres</string>
+    <string name="tether_settings_title_wifi">WLAN-warmkol</string>
+    <string name="tether_settings_title_all">USB-verbinding en WLAN-warmkol</string>
+    <string name="location_network_based">WLAN- en mobielenetwerk-ligging</string>
+    <string name="location_neighborhood_level">Laat programme Google se liggingsdiens gebruik om jou ligging vinniger te beraam. Anonieme liggingsdata sal ingesamel word en aan Google gestuur word.</string>
+    <string name="location_neighborhood_level_wifi">Ligging deur WLAN vasgestel</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">WLAN betyds</string>
+    <string name="bluetooth_on_time">WLAN betyds</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">WLAN aan</string>
+    <string name="battery_action_wifi">WLAN-instellings</string>
+    <string name="battery_desc_wifi">Battery deur WLAN gebruik</string>
+    <string name="battery_sugg_wifi">Skakel WLAN af wanneer dit nie gebruik word nie of as dit nie beskikbaar is nie</string>
+    <string name="gadget_toggle_wifi">Dateer WLAN-instelling op</string>
+    <string name="gadget_state_template">%1$s %2$s</string>
+    <string name="gadget_wifi">WLAN</string>
+    <string name="backup_data_summary">Rugsteun programdata, WLAN-wagwoorde en ander instellings na Google-bedieners</string>
+    <string name="backup_erase_dialog_message">Hou op om jou WLAN-wagwoorde, boekmerke, ander instellings en programdata te rugsteun en vee al die kopieë op Google-bedieners uit?</string>
+    <string name="wifi_setup_title">WLAN-opstelling</string>
+    <string name="wifi_setup_title_editing_network">Koppel aan WLAN-netwerk %s</string>
+    <string name="wifi_setup_title_connecting_network">Koppel tans aan WLAN-netwerk %s…</string>
+    <string name="wifi_setup_title_connected_network">Gekoppel aan WLAN-netwerk %s</string>
+    <string name="wifi_setup_eap_not_supported">"Jy kan nie 'n EAP-WLAN-verbinding tydens opstelling konfigureer nie. Na opstelling kan jy dit doen in Instellings, onder WLAN en netwerke."</string>
+    <string name="wifi_setup_description_connected">Raak <b>Volgende</b>" om voort te gaan met opstelling.
+
+Raak "<b>Terug</b>" om aan 'n ander WLAN-netwerk te koppel."</string>
+    <string name="data_usage_menu_show_wifi">Wys WLAN-gebruik</string>
+    <string name="data_usage_disable_wifi_limit">Stel WLAN se datalimiet</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_restrict_background">"As jy mobiele data in die agtergrond beperk, sal sommige programme en dienste nie werk tensy jy aan 'n WLAN-netwerk gekoppel is nie."</string>
+    <string name="data_usage_restrict_background_multiuser">"As jy mobiele data in die agtergrond beperk, sal sommige programme en dienste nie werk tensy jy aan 'n WLAN-netwerk gekoppel is nie.
+
+Hierdie instelling beïnvloed alle gebruikers op hierdie foon."</string>
+    <string name="data_usage_metered_body">Kies die WLAN-netwerke wat mobiele warmkolle is. Programme kan beperk word om hierdie netwerke te gebruik wanneer hulle in die agtergrond is. Programme kan ook waarsku voor hierdie netwerke gebruik word vir groot aflaaisels.</string>
+    <string name="data_usage_metered_wifi">WLAN-netwerke</string>
+    <string name="data_usage_metered_wifi_disabled">Om mobiele warmkolle te kies, skakel WLAN aan.</string>
+    <string name="user_add_user_message_long">"Jy kan hierdie toestel met ander mense deel deur bykomende gebruikers te skep. Elke gebruiker het sy eie ruimte, wat hulle met hul eie programme, muurpapier, ensovoorts kan pasmaak. Gebruikers kan ook tabletinstellings verstel wat almal affekteer, soos WLAN.
+
+Nadat jy 'n nuwe gebruiker geskep het, moet daardie persoon deur 'n opstelproses gaan.
+
+Enige gebruiker kan opgedateerde programtoestemmings namens al die ander gebruikers aanvaar."</string>
+    <string name="restriction_wifi_config_title">WLAN en selfoon</string>
+    <string name="restriction_wifi_config_summary">Laat die wysiging van WLAN en mobiele instellings toe</string>
+</resources>

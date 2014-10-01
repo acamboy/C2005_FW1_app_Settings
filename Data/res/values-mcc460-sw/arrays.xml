@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>eneo lisilo laini</item>
+        <item>Eneo bora</item>
+        <item>GPS</item>
+        <item>tetema</item>
+        <item>soma anwani</item>
+        <item>rekebisha anwani</item>
+        <item>soma rajisi ya simu</item>
+        <item>rekebisha rajisi ya simu</item>
+        <item>soma kalenda</item>
+        <item>rekebisha kalenda</item>
+        <item>uchanganuzi wa wi-fi</item>
+        <item>arifa</item>
+        <item>uchanganuzi wa seli</item>
+        <item>piga simu</item>
+        <item>soma SMS</item>
+        <item>andika SMS</item>
+        <item>pokea SMS</item>
+        <item>pokea SMS za dharura</item>
+        <item>pokea MMS</item>
+        <item>pokea msukumo wa WAP</item>
+        <item>tuma SMS</item>
+        <item>soma SMS za ICC</item>
+        <item>andika SMS za ICC</item>
+        <item>rekebisha mipangilio</item>
+        <item>chora juu</item>
+        <item>fikia arifa</item>
+        <item>kamera</item>
+        <item>rekodi sauti</item>
+        <item>cheza sauti</item>
+        <item>soma ubao klipu</item>
+        <item>badilisha ubao klipu</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Eneo</item>
+        <item>Eneo</item>
+        <item>Eneo</item>
+        <item>Tetema</item>
+        <item>Soma anwani</item>
+        <item>Rekebisha anwani</item>
+        <item>soma rajisi ya simu</item>
+        <item>Rekebisha rajisi ya simu</item>
+        <item>Soma kalenda</item>
+        <item>Rekebisha kalenda</item>
+        <item>Eneo</item>
+        <item>Chapisha arifa</item>
+        <item>Eneo</item>
+        <item>Piga simu</item>
+        <item>Pokea SMS/MMS</item>
+        <item>Tuma SMS/MMS</item>
+        <item>Pokea SMS/MMS</item>
+        <item>Pokea SMS/MMS</item>
+        <item>Pokea SMS/MMS</item>
+        <item>Pokea SMS/MMS</item>
+        <item>Tuma SMS/MMS</item>
+        <item>Pokea SMS/MMS</item>
+        <item>Tuma SMS/MMS</item>
+        <item>Rekebisha mipangilio</item>
+        <item>Chora juu</item>
+        <item>Fikia arifa</item>
+        <item>Kamera</item>
+        <item>Rekodi sauti</item>
+        <item>Cheza sauti</item>
+        <item>Soma ubao klipu</item>
+        <item>Rekebisha ubao klipu</item>
+    </string-array>
+</resources>

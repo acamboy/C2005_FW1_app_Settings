@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <PreferenceCategory android:title="@string/sim_enable" />
+    <CheckBoxPreference android:title="@string/sim1_title" android:key="simcard1" />
+    <CheckBoxPreference android:title="@string/sim2_title" android:key="simcard2" />
+    <PreferenceCategory android:title="@string/dsds_settings_dual_sim_card_naming_sim_subtitle_txt">
+        <EditTextPreference android:hint="@string/dsds_settings_dual_sim_card_sim1_name_remind_string_popup_txt" android:singleLine="true" android:title="@string/dsds_strings_naming_sim1_first_line_txt" android:key="sim1_name" android:summary="@string/dsds_settings_dual_sim_card_sim_name_list_subtitle_txt" android:dialogTitle="@string/dsds_strings_naming_sim1_first_line_txt" android:inputType="textEmailAddress" />
+        <EditTextPreference android:hint="@string/dsds_settings_dual_sim_card_sim1_name_remind_string_popup_txt" android:singleLine="true" android:title="@string/dsds_strings_naming_sim2_first_line_txt" android:key="sim2_name" android:summary="@string/dsds_settings_dual_sim_card_sim_name_list_subtitle_txt" android:dialogTitle="@string/dsds_strings_naming_sim2_first_line_txt" android:inputType="textEmailAddress" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/general_settings" />
+    <PreferenceScreen android:key="data_connection" />
+    <PreferenceCategory android:title="@string/dual_sim_divider_other_settings">
+        <com.android.settings.simmanager.MSimCallForwardingPreferenceScreen android:title="@string/call_forward_title" android:selectable="true" android:key="call_forward_key" android:summary="@string/call_forward_description" android:widgetLayout="@layout/call_forwarding_state" />
+    </PreferenceCategory>
+</PreferenceScreen>

@@ -1,0 +1,17 @@
+version: 2.0.0-Beta9
+apkFileName: 14412F.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+  - 2
+  tag: c2005_FW1.5
+sdkInfo:
+  minSdkVersion: '18'
+  targetSdkVersion: '18'
+packageInfo:
+  forced-package-id: '127'
+versionInfo:
+  versionCode: '18'
+  versionName: 4.3-eng.user.20140430.172301
+compressionType: true

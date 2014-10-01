@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <com.sonymobile.settings.preference.IntentPreference android:title="@string/google_location_title_txt" android:key="google_location_permission" android:summary="@string/google_location_summary_txt" android:dependency="location_toggle" settings:dependOnIsValidIntent="true" settings:after="location_toggle">
+        <intent android:targetPackage="com.google.android.gsf" android:action="android.intent.action.MAIN" android:targetClass="com.google.android.gsf.settings.GoogleLocationSettings$Activity" />
+    </com.sonymobile.settings.preference.IntentPreference>
+</PreferenceScreen>

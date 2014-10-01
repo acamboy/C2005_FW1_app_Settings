@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>indawo emaholoholo</item>
+        <item>indawo elungile</item>
+        <item>I-GPS</item>
+        <item>dlidliza</item>
+        <item>funda oxhumana nabo</item>
+        <item>shintsha oxhumana nabo</item>
+        <item>funda irekhodi lwamakholi</item>
+        <item>shintsha irekhodi lwamakholi</item>
+        <item>funda ikhalenda</item>
+        <item>shintsha ikhalenda</item>
+        <item>isikeni se-WLAN</item>
+        <item>isaziso</item>
+        <item>ukuskena iseli</item>
+        <item>shayela ifoni</item>
+        <item>funda i-SMS</item>
+        <item>bhala i-SMS</item>
+        <item>thola i-SMS</item>
+        <item>thola i-SMS yezimo eziphuthumayo</item>
+        <item>thola i-MMS</item>
+        <item>thola ukuphushwa kwe-WAP</item>
+        <item>Thumela i-SMS</item>
+        <item>Funda i-ICC SMS</item>
+        <item>bhala i-ICC SMS</item>
+        <item>shintsha izilungiselelo</item>
+        <item>dweba ngaphezulu</item>
+        <item>finyelela kuzaziso</item>
+        <item>ikhamera</item>
+        <item>qopha umsindo</item>
+        <item>dlala umsindo</item>
+        <item>funda ibhodi lokunamathisela</item>
+        <item>shintsha ibhodi lokunamathisela</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Indawo</item>
+        <item>Indawo</item>
+        <item>Indawo</item>
+        <item>Dlidliza</item>
+        <item>Funda oxhumana nabo</item>
+        <item>Shintsha oxhumana nabo</item>
+        <item>Funda irekhodi lwamakholi</item>
+        <item>Shintsha irekhodi lwamakholi</item>
+        <item>Funda ikhalenda</item>
+        <item>Shintsha ikhalenda</item>
+        <item>Indawo</item>
+        <item>Isaziso sokuthunyelwe</item>
+        <item>Indawo</item>
+        <item>Shayela ifoni</item>
+        <item>Thola i-SMS/MMS</item>
+        <item>Thumela i-SMS/MMS</item>
+        <item>Thola i-SMS/MMS</item>
+        <item>Thola i-SMS/MMS</item>
+        <item>Thola i-SMS/MMS</item>
+        <item>Thola i-SMS/MMS</item>
+        <item>Thumela i-SMS/MMS</item>
+        <item>Thola i-SMS/MMS</item>
+        <item>Thumela i-SMS/MMS</item>
+        <item>Shintsha izilungiselelo</item>
+        <item>Dweba ngaphezulu</item>
+        <item>Finyelela kuzaziso</item>
+        <item>Ikhamera</item>
+        <item>Qopha umsindo</item>
+        <item>Dlala umsindo</item>
+        <item>Funda ibhodi lokunamathisela</item>
+        <item>Shintsha ibhodi lokunamathisela</item>
+    </string-array>
+</resources>

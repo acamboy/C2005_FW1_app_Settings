@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>ግምታዊ አካባቢ</item>
+        <item>ትክክለኛ አካባቢ</item>
+        <item>ጂ ፒ ኤስ</item>
+        <item>ንዘር</item>
+        <item>እውቂያዎችን አንብብ</item>
+        <item>ዕውቂያዎችዎን ይቀይሩ</item>
+        <item>የጥሪ ምዝግብ ማስታወሻን ያንብቡ</item>
+        <item>የጥሪ ምዝግብ ማስታወሻን ይቀይሩ</item>
+        <item>የቀን መቁጠሪያ አንብብ</item>
+        <item>የቀን መቁጠሪያን ይቀይሩ</item>
+        <item>የWLAN ቅኝት</item>
+        <item>ማሳወቂያ</item>
+        <item>የህዋስ ቅኝት</item>
+        <item>ወደ ስልክ ደውል</item>
+        <item>ኤስ ኤም ኤስን ያንብቡ</item>
+        <item>ኤስ ኤም ኤስ ይጻፉ</item>
+        <item>ኤስ ኤም ኤስ ይቀበሉ</item>
+        <item>አስቸኳይ ኤስ ኤም ኤስ ይቀበሉ</item>
+        <item>ኤም ኤም ኤስ ይቀበሉ</item>
+        <item>የደልብዩ ኤ ፒ ግፊት ይቀበሉ</item>
+        <item>ኤስ ኤም ኤስ ይላኩ</item>
+        <item>የአይ ሲ ሲ ኤስ ኤም ኤስ ያንብቡ</item>
+        <item>የአይ ሲ ሲ ኤስ ኤም ኤስ ይጻፉ</item>
+        <item>ቅንብሮችን ይቀይሩ</item>
+        <item>ከላይ ይሳሉ</item>
+        <item>ማሳወቂያዎችን ድረስ</item>
+        <item>ካሜራ</item>
+        <item>ኦዲዮ ቅረጽ</item>
+        <item>ድምጽ አጫውት</item>
+        <item>ቅንጥብ መለያ አንብብ</item>
+        <item>ቅንጥብ መለያ ቀይር</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>አካባቢ</item>
+        <item>አካባቢ</item>
+        <item>አካባቢ</item>
+        <item>ንዘር</item>
+        <item>እውቂያዎችን አንብብ</item>
+        <item>ዕውቂያዎችዎን ይቀይሩ</item>
+        <item>የጥሪ ምዝግብ ማስታወሻን ያንብቡ</item>
+        <item>የጥሪ ምዝግብ ማስታወሻን ይቀይሩ</item>
+        <item>የቀን መቁጠሪያ አንብብ</item>
+        <item>የቀን መቁጠሪያን ይቀይሩ</item>
+        <item>አካባቢ</item>
+        <item>ማሳወቂያ ለጥፍ</item>
+        <item>አካባቢ</item>
+        <item>ወደ ስልክ ደውል</item>
+        <item>ኤስ ኤም ኤስ/ኤም ኤም ኤስ ይቀበሉ</item>
+        <item>ኤስ ኤም ኤስ/ኤም ኤም ኤስ ይላኩ</item>
+        <item>ኤስ ኤም ኤስ/ኤም ኤም ኤስ ይቀበሉ</item>
+        <item>ኤስ ኤም ኤስ/ኤም ኤም ኤስ ይቀበሉ</item>
+        <item>ኤስ ኤም ኤስ/ኤም ኤም ኤስ ይቀበሉ</item>
+        <item>ኤስ ኤም ኤስ/ኤም ኤም ኤስ ይቀበሉ</item>
+        <item>ኤስ ኤም ኤስ/ኤም ኤም ኤስ ይላኩ</item>
+        <item>ኤስ ኤም ኤስ/ኤም ኤም ኤስ ይቀበሉ</item>
+        <item>ኤስ ኤም ኤስ/ኤም ኤም ኤስ ይላኩ</item>
+        <item>ቅንብሮችን ይቀይሩ</item>
+        <item>ከላይ ይሳሉ</item>
+        <item>ማሳወቂያዎችን ይድረሱ</item>
+        <item>ካሜራ</item>
+        <item>ኦዲዮ ቅረጽ</item>
+        <item>ድምጽ አጫውት</item>
+        <item>ቅንጥብ ሰሌዳ አንብብ</item>
+        <item>ቅንጥብ መለያ ቀይር</item>
+    </string-array>
+</resources>

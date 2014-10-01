@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="radio_controls_summary">Dhibiti WLAN, Bluetooth, hali ya ndege, mitandao ya simu za mkononi na VPN</string>
+    <string name="wifi_display_settings_empty_list_wifi_display_disabled">Uonyeshaji pasiwaya umezimwa kwa sababu WLAN imezima.</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">Washa WLAN</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">Mipangilio ya WLAN</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_setup_wizard_title">Chagua WLAN</string>
+    <string name="wifi_starting">Inawasha WLAN...</string>
+    <string name="wifi_stopping">Inazima WLAN...</string>
+    <string name="wifi_poor_network_detection_summary">Usitumie mtandao wa WLAN ambao hauna muunganisho mzuri wa Intaneti</string>
+    <string name="wifi_scan_always_available_summary">Ruhusu huduma ya Google ya kutambua eneo na programu zingine ziangalie mitandao inayopatikana, hata wakati WLAN imezimwa</string>
+    <string name="wifi_scan_notify_text_location_on">Ili kuboresha usahihi wa eneo na kwa ajili ya madhumuni mengine, Google na programu nyingine huchanganua kutafuta mitandao iliyokaribu, hata wakati WLAN imezimwa. Ikiwa hutaki hili litokee, nenda kwenye > Uchanganuzi Mahiri unapatikana wakati wote.</string>
+    <string name="wifi_scan_notify_text_location_off">Programu zinaweza kuchanganua kutafuta mitandao iliyokaribu, hata wakati WLAN imezimwa. Ikiwa hutaki hili litokee, nenda kwenye > Uchanganuzi Mahiri unapatikana wakati wote.</string>
+    <string name="wifi_setting_sleep_policy_title">Washa WLAN wakati wa kulala</string>
+    <string name="wifi_suspend_optimizations">Uboreshaji wa WLAN</string>
+    <string name="wifi_suspend_optimizations_summary">Punguza matumizi ya betri wakati WLAN imewashwa</string>
+    <string name="wifi_access_points">Mitandao ya WLAN</string>
+    <string name="wifi_menu_p2p">WLAN ya Moja kwa Moja</string>
+    <string name="wifi_empty_list_wifi_off">Ili kutazama mitandao inayopatikana, washa WLAN.</string>
+    <string name="wifi_empty_list_wifi_on">Inatafuta mitandao ya WLAN...</string>
+    <string name="wifi_empty_list_user_restricted">Huna ruhusa ya kubadilisha mtandao wa Wi -Fi.</string>
+    <string name="wifi_required_info_text">"Ili kukamilisha usanidi, kompyuta yako ndogo inahitaji ufikiaji katika WLAN. Baada ya usanidi,  unaweza kubadili kati ya data ya simu ya mkononi na WLAN."</string>
+    <string name="wifi_wps_setup_title">Usanidi Uliolindwa na WLAN</string>
+    <string name="wifi_wps_onstart_pbc">Bonyeza kitufe Kilicholindwa cha Usanidi wa WLAN kwenye kisambaza data chako. Huenda kinaitwa \"WPS\" au kina ishara hii:</string>
+    <string name="wifi_wps_onstart_pin">Weka pin %1$s kwenye kisambaza data chako cha WLAN. Huenda usanidi ukachukua hadi dakika mbili kabla ukamilike.</string>
+    <string name="wifi_wps_connected">Umeunganishwa kwenye mtandao-hewa wa WLAN %s</string>
+    <string name="wifi_scan_always_turnon_message">"Ili kuboresha usahihi wa mahali na kwa madhumuni mengine, %1$s inataka kuwasha ukaguaji mitandao, hata wakati WLAN imezimwa.
+
+Je, ungependa kuruhusu programu zote ambazo zingependa kukagua ziweza kufanya hivyo?"</string>
+    <string name="wifi_connect_failed_message">Simu haikuweza kuunganishwa kwenye mtandao huu wa WLAN.</string>
+    <string name="wifi_advanced_titlebar">WLAN mahiri</string>
+    <string name="wifi_setting_frequency_band_title">Bendi ya masafa ya WLAN</string>
+    <string name="wifi_p2p_settings_title">WLAN ya Moja kwa moja</string>
+    <string name="wifi_tether_checkbox_text">Sambaza intaneti ya WLAN</string>
+    <string name="wifi_tether_failed_subtext">Hitilafu katika kusambaza intaneti ya WLAN</string>
+    <string name="wifi_tether_configure_ap_text">Weka intaneti ya WLAN ya kusambazwa</string>
+    <string name="wifi_tether_configure_subtext">%1$s%2$s intaneti ya WLAN ya kusambazwa</string>
+    <string name="status_wifi_mac_address">Anwani ya WLAN ya MAC</string>
+    <string name="location_network_based">Eneo la mtandao wa WLAN na wa simu</string>
+    <string name="location_neighborhood_level">Ruhusu programu zitumie huduma ya Google ya kukadiria mahali ili kukadiria mahali ulipo kwa haraka. Data ya mahali pasipojulikana itakusanywa na kutumwa kwa Google.</string>
+    <string name="location_neighborhood_level_wifi">Eneo limethibitishwa na WLAN</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">WLANa kwa wakati unaofaa</string>
+    <string name="bluetooth_on_time">WLAN wakati unaofaa</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">Inaendesha WLAN</string>
+    <string name="battery_action_wifi">Mipangilio ya WLAN</string>
+    <string name="battery_desc_wifi">Betri imetumiwa na WLAN</string>
+    <string name="battery_sugg_wifi">Zima WLAN wakati huitumii au wakati haipatikani</string>
+    <string name="gadget_toggle_wifi">Inasasisha mpangilio wa WLAN</string>
+    <string name="gadget_state_template">%1$s %2$s</string>
+    <string name="gadget_wifi">WLAN</string>
+    <string name="backup_data_summary">Hifadhi nakala ya data ya programu, manenosiri ya WLAN, na mipangilio mingine kwenye seva za Google</string>
+    <string name="backup_erase_dialog_message">Ungependa kuacha kuhifadhi nakala za manenosiri, alamisho, mipangilio mingine na data ya programu ya WLAN, na ufute nakala zote kwenye seva za Google?</string>
+    <string name="wifi_setup_title">Usanidi wa WLAN</string>
+    <string name="wifi_setup_title_editing_network">Unganisha kwenye mtandao wa WLAN %s</string>
+    <string name="wifi_setup_title_connecting_network">Inaunganisha kwenye mtandao wa WLAN %s...</string>
+    <string name="wifi_setup_title_connected_network">Umeunganishwa kwenye mtandao wa WLAN %s</string>
+    <string name="wifi_setup_eap_not_supported">Huwezi kusanidi muunganisho wa EAP WLAN wakati wa usanidi. Baada ya kusanidi, unaweza kufanya hivyo katika Mipangilio > mitandao isiyotumia waya.</string>
+    <string name="wifi_setup_description_connected">Gusa<b>Inayofuata</b>" ili kuendelea na usanidi.
+
+Gusa"<b>Nyuma</b> ili kuunganisha kwenye mtandao tofauti wa WLAN.</string>
+    <string name="data_usage_menu_show_wifi">Onyesha matumizi ya WLAN</string>
+    <string name="data_usage_disable_wifi_limit">Weka kikomo data cha WLAN</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_restrict_background">Ukizuia data ya chini kwa chini ya vifaa vya mkononi, baadhi ya programu na huduma hazitafanya kazi mpaka uunganishe mtandao wa WLAN.</string>
+    <string name="data_usage_restrict_background_multiuser">"Ukizuia data ya chini kwa chini kwa vifaa vya mkononi, baadhi ya programu na huduma hazitafanya kazi isipokuwa uunganishwe kwenye mtandao wa WLAN.
+
+Mpangilio huu unawaathiri watumiaji wote kwenye simu hii."</string>
+    <string name="data_usage_metered_body">Chagua mitandao ya WLAN ambayo ni mitandao-hewa ya vifaa vya mkononi. Programu zinaweza kuzuiliwa kutumia mitandao hii wakati ziko chini kwa chini. Pia programu zinaweza kutoa ilani kabla ya kutumia mitandao hii kwa upakuaji mkubwa.</string>
+    <string name="data_usage_metered_wifi">Mitandao ya WLAN</string>
+    <string name="data_usage_metered_wifi_disabled">Ili kuchagua mitandao-hewa ya vifaa vya mkononi, washa WLAN.</string>
+    <string name="user_add_user_message_long">"Unaweza kushiriki kifaa hiki na watu wengine kwa kuweka watumiaji wa ziada. Kila mtumiaji ana nafasi yake binafsi, ambayo anaweza kugeuza kumfaa kwa programu binafsi, pazia, na kadhalika. Watumiaji pia wanaweza kurekebisha mipangilio ya kompyuta ndogo kama WLAN ambayo inaathiri kila mtu.
+
+Baada ya kuweka mtumiaji mpya, mtu huyo anahitaji kupitia mchakato wa usanidi.
+
+Mtumiaji yeyote anaweza kukubali idhini zilizosasishwa za programu kwa niaba ya watumiaji wengine wote."</string>
+    <string name="restriction_wifi_config_title">WLAN na Vifaa vya Mkononi</string>
+    <string name="restriction_wifi_config_summary">Ruhusu marekebisho ya mipangilio ya WLAN na Vifaa vya Mkononi</string>
+</resources>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>おおよその位置情報</item>
+        <item>精細な位置情報</item>
+        <item>GPS</item>
+        <item>バイブレーション</item>
+        <item>連絡先の読み取り</item>
+        <item>連絡先の変更</item>
+        <item>通話履歴の読み取り</item>
+        <item>通話履歴の変更</item>
+        <item>カレンダーの読み取り</item>
+        <item>カレンダーの変更</item>
+        <item>WLANスキャン</item>
+        <item>通知</item>
+        <item>セルスキャン</item>
+        <item>通話の発信</item>
+        <item>SMSの読み取り</item>
+        <item>SMSの書き込み</item>
+        <item>メッセージの受信</item>
+        <item>緊急SMSの受信</item>
+        <item>MMSの受信</item>
+        <item>WAPプッシュの受信</item>
+        <item>SMSの送信</item>
+        <item>ICC SMSの読み取り</item>
+        <item>ICC SMSの書き込み</item>
+        <item>設定の変更</item>
+        <item>上部に描画</item>
+        <item>通知へのアクセス</item>
+        <item>カメラ</item>
+        <item>音声の録音</item>
+        <item>音声の再生</item>
+        <item>クリップボードの読み取り</item>
+        <item>クリップボードの変更</item>
+        <item>wifi change</item>
+        <item>bluetooth change</item>
+        <item>data change</item>
+        <item>send MMS</item>
+        <item>read MMS</item>
+        <item>write MMS</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>位置情報</item>
+        <item>位置情報</item>
+        <item>位置情報</item>
+        <item>バイブレーション</item>
+        <item>連絡先の読み取り</item>
+        <item>連絡先の変更</item>
+        <item>通話履歴の読み取り</item>
+        <item>通話履歴の変更</item>
+        <item>カレンダーの読み取り</item>
+        <item>カレンダーの変更</item>
+        <item>位置情報</item>
+        <item>通知</item>
+        <item>位置情報</item>
+        <item>発信</item>
+        <item>SMS/MMSの受信</item>
+        <item>SMS/MMSの送信</item>
+        <item>メッセージの受信</item>
+        <item>メッセージの受信</item>
+        <item>メッセージの受信</item>
+        <item>メッセージの受信</item>
+        <item>メッセージの送信</item>
+        <item>SMS/MMSの受信</item>
+        <item>SMS/MMSの送信</item>
+        <item>設定の変更</item>
+        <item>上部に描画</item>
+        <item>通知へのアクセス</item>
+        <item>カメラ</item>
+        <item>音声の録音</item>
+        <item>音声の再生</item>
+        <item>クリップボードの読み取り</item>
+        <item>クリップボードの変更</item>
+        <item>WLAN change</item>
+        <item>Bluetooth change</item>
+        <item>Data change</item>
+        <item>Send MMS</item>
+        <item>Read MMS</item>
+        <item>Write MMS</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>WLAN ASCII</item>
+        <item>WLAN hexadecimal</item>
+    </string-array>
+</resources>

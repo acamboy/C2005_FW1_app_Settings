@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="remaining_time_format_days">
+        <item quantity="other">%d js</item>
+        <item quantity="one">%d jour</item>
+    </plurals>
+    <plurals name="remaining_time_format_hours">
+        <item quantity="other">%d hrs</item>
+        <item quantity="one">%d heure</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Le mot de passe doit contenir au moins %d lettres</item>
+        <item quantity="one">Le mot de passe doit contenir au moins 1 lettre</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Le mot de passe doit contenir au moins une lettre majuscule</item>
+        <item quantity="one">Le mot de passe doit contenir au moins une lettre minuscule</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Le mot de passe doit contenir au moins %d lettres majuscules</item>
+        <item quantity="one">Le mot de passe doit contenir au moins une lettre majuscule</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Le mot de passe doit contenir au moins %d chiffres</item>
+        <item quantity="one">Le mot de passe doit contenir au moins un chiffre</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Le mot de passe doit contenir au moins %d caractères spéciaux</item>
+        <item quantity="one">Le mot de passe doit contenir au moins 1 caractère spécial</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Le mot de passe doit contenir au moins %d caractères spéciaux</item>
+        <item quantity="one">Le mot de passe doit contenir au moins un caractère spécial</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">Les applications %d peuvent lire les notifications</item>
+        <item quantity="one">"L'application %d peut lire les notifications"</item>
+    </plurals>
+    <plurals name="stamina_xssm_add_applications_descr">
+        <item quantity="other">%d appl actuellement dans la liste</item>
+        <item quantity="one">%1$d appl actuellement dans la liste</item>
+    </plurals>
+</resources>

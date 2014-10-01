@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="remaining_time_format_days">
+        <item quantity="other">%d ദിവസം</item>
+        <item quantity="one">%d ദിവസം</item>
+    </plurals>
+    <plurals name="remaining_time_format_hours">
+        <item quantity="other">%d മണിക്കൂര്‍</item>
+        <item quantity="one">%d മണിക്കൂര്‍</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">പാസ്‌വേഡില്‍ ചുരുങ്ങിയത് %d അക്ഷരം ഉണ്ടായിരിക്കണം</item>
+        <item quantity="one">പാസ്‌വേഡില്‍ ചുരുങ്ങിയത് 1 അക്ഷരം ഉണ്ടായിരിക്കണം</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">പാസ്‌വേഡില്‍ ചുരുങ്ങിയത് %d ചെറിയക്ഷരം ഉണ്ടായിരിക്കണം</item>
+        <item quantity="one">പാസ്‌വേഡില്‍ ചുരുങ്ങിയത് 1 ചെറിയക്ഷരം ഉണ്ടായിരിക്കണം</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">പാസ്‌വേഡില്‍ ചുരുങ്ങിയത് %d വലിയക്ഷരം ഉണ്ടായിരിക്കണം</item>
+        <item quantity="one">പാസ്‌വേഡില്‍ ചുരുങ്ങിയത് 1 വലിയക്ഷരം ഉണ്ടായിരിക്കണം</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">പാസ്‌വേഡില്‍ ചുരുങ്ങിയത് %d സംഖ്യാപരമായ അക്കം ഉണ്ടായിരിക്കണം</item>
+        <item quantity="one">പാസ്‌വേഡില്‍ ചുരുങ്ങിയത് 1 സംഖ്യാപരമായ അക്കം ഉണ്ടായിരിക്കണം</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">പാസ്‌വേഡില്‍ ചുരുങ്ങിയത് %d പ്രത്യേക ചിഹ്നം ഉണ്ടായിരിക്കണം</item>
+        <item quantity="one">പാസ്‌വേഡില്‍ ചുരുങ്ങിയത് 1 പ്രത്യേക ചിഹ്നം ഉണ്ടായിരിക്കണം</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">പാസ്‌വേഡില്‍ ചുരുങ്ങിയത് %d അക്ഷരമല്ലാത്ത അക്ഷരം ഉണ്ടായിരിക്കണം</item>
+        <item quantity="one">പാസ്‌വേഡില്‍ ചുരുങ്ങിയത് 1 അക്ഷരമല്ലാത്ത അക്ഷരം ഉണ്ടായിരിക്കണം</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">അറിയിപ്പുകൾ വായിക്കാൻ %d ആപ്ലിക്കേഷനുകൾക്ക് കഴിയില്ല</item>
+        <item quantity="one">അറിയിപ്പുകൾ വായിക്കാൻ %d ആപ്ലിക്കേഷന് കഴിയില്ല</item>
+    </plurals>
+    <plurals name="stamina_xssm_add_applications_descr">
+        <item quantity="other">നിലവില്‍ %d ആപ്ലിക്കേഷനുകള്‍ ലിസ്റ്റില്‍</item>
+        <item quantity="one">നിലവില്‍ %1$d ആപ്ലിക്കേഷന്‍ ലിസ്റ്റില്‍</item>
+    </plurals>
+</resources>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>growwe ligging</item>
+        <item>fyn ligging</item>
+        <item>GPS</item>
+        <item>vibreer</item>
+        <item>lees kontakte</item>
+        <item>verander kontakte</item>
+        <item>lees oproeprekord</item>
+        <item>verander oproeprekord</item>
+        <item>lees kalender</item>
+        <item>verander kalender</item>
+        <item>WLAN-skandering</item>
+        <item>kennisgewing</item>
+        <item>sel-skandering</item>
+        <item>bel foon</item>
+        <item>lees SMS</item>
+        <item>skryf SMS</item>
+        <item>ontvang SMS</item>
+        <item>ontvang nood-SMS</item>
+        <item>ontvang MMS</item>
+        <item>ontvang WAP-stootpos</item>
+        <item>stuur SMS</item>
+        <item>lees ICC-SMS</item>
+        <item>skryf ICC-SMS</item>
+        <item>verander instellings</item>
+        <item>teken bo-op</item>
+        <item>kry toegang tot kennisgewings</item>
+        <item>kamera</item>
+        <item>neem oudio op</item>
+        <item>speel oudio</item>
+        <item>lees knipbord</item>
+        <item>verander knipbord</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Ligging</item>
+        <item>Ligging</item>
+        <item>Ligging</item>
+        <item>Vibreer</item>
+        <item>Lees kontakte</item>
+        <item>Verander kontakte</item>
+        <item>Lees oproeprekord</item>
+        <item>Verander oproeprekord</item>
+        <item>Lees kalender</item>
+        <item>Verander kalender</item>
+        <item>Ligging</item>
+        <item>Plaas kennisgewing</item>
+        <item>Ligging</item>
+        <item>Bel foon</item>
+        <item>Ontvang SMS/MMS</item>
+        <item>Stuur SMS/MMS</item>
+        <item>Ontvang SMS/MMS</item>
+        <item>Ontvang SMS/MMS</item>
+        <item>Ontvang SMS/MMS</item>
+        <item>Ontvang SMS/MMS</item>
+        <item>Stuur SMS/MMS</item>
+        <item>Ontvang SMS/MMS</item>
+        <item>Stuur SMS/MMS</item>
+        <item>Verander instellings</item>
+        <item>Teken bo-op</item>
+        <item>Kry toegang tot kennisgewings</item>
+        <item>Kamera</item>
+        <item>Neem oudio op</item>
+        <item>Speel oudio</item>
+        <item>Lees knipbord</item>
+        <item>Verander knipbord</item>
+    </string-array>
+</resources>

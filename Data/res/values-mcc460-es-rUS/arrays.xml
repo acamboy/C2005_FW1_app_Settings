@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>ubicación aproximada</item>
+        <item>ubicación precisa</item>
+        <item>GPS</item>
+        <item>vibrar</item>
+        <item>leer contactos</item>
+        <item>modificar contactos</item>
+        <item>leer registro de llamadas</item>
+        <item>modificar registro de llamadas</item>
+        <item>leer calendario</item>
+        <item>modificar calendario</item>
+        <item>búsqueda de WLAN</item>
+        <item>notificación</item>
+        <item>búsqueda de dispositivo</item>
+        <item>llamar a un teléfono</item>
+        <item>leer SMS</item>
+        <item>redactar SMS</item>
+        <item>recibir SMS</item>
+        <item>recibir SMS de emergencia</item>
+        <item>recibir MMS</item>
+        <item>recibir push de WAP</item>
+        <item>enviar SMS</item>
+        <item>leer ICC SMS</item>
+        <item>redactar ICC SMS</item>
+        <item>modificar configuración</item>
+        <item>dibujar en la parte superior</item>
+        <item>acceder a las notificaciones</item>
+        <item>cámara</item>
+        <item>grabar audio</item>
+        <item>reproducir audio</item>
+        <item>leer portapapeles</item>
+        <item>modificar portapapeles</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Ubicaci籀n</item>
+        <item>Ubicaci籀n</item>
+        <item>Ubicaci籀n</item>
+        <item>Vibrar</item>
+        <item>Leer contactos</item>
+        <item>Modificar contactos</item>
+        <item>Leer registro de llamadas</item>
+        <item>Modificar registro de llamadas</item>
+        <item>Leer calendario</item>
+        <item>Modificar calendario</item>
+        <item>Ubicaci籀n</item>
+        <item>Publicar notificaci籀n</item>
+        <item>Ubicaci籀n</item>
+        <item>Llamar a un tel矇fono</item>
+        <item>Recibir SMS/MMS</item>
+        <item>Enviar SMS/MMS</item>
+        <item>Recibir SMS/MMS</item>
+        <item>Recibir SMS/MMS</item>
+        <item>Recibir SMS/MMS</item>
+        <item>Recibir SMS/MMS</item>
+        <item>Enviar SMS/MMS</item>
+        <item>Recibir SMS/MMS</item>
+        <item>Enviar SMS/MMS</item>
+        <item>Modificar configuraci籀n</item>
+        <item>Dibujar en la parte superior</item>
+        <item>Acceder a las notificaciones</item>
+        <item>C獺mara</item>
+        <item>Grabar audio</item>
+        <item>Reproducir audio</item>
+        <item>Leer portapapeles</item>
+        <item>Modificar portapapeles</item>
+    </string-array>
+</resources>

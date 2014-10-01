@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_settings_summary">"Configurar &amp; administrar ils puncts d'access WLAN"</string>
+    <string name="wifi_tether_enabled_subtext">"Punct d'access WLAN mobil %1$s activ"</string>
+    <string name="tether_settings_title_wifi">"Punct d'access WLAN mobil"</string>
+</resources>

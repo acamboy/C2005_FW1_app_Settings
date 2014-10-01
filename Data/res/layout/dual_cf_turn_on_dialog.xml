@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:paddingLeft="15.0dip" android:paddingRight="15.0dip" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="20.0sp" android:textColor="#ff000000" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/call_forward_sim1_number" />
+        <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/call_forward_sim1_number_desc" />
+        <EditText android:id="@id/dualCFInputSim1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:inputType="phone" />
+        <TextView android:textSize="20.0sp" android:textColor="#ff000000" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/call_forward_sim2_number" />
+        <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/call_forward_sim2_number_desc" />
+        <EditText android:id="@id/dualCFInputSim2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:inputType="phone" />
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <Button android:id="@id/input_dialog_negative_button" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/cancel" android:layout_weight="1.0" />
+            <Button android:id="@id/input_dialog_positive_button" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/proxy_action_text" android:layout_weight="1.0" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="radio_controls_summary">WLAN፣ ብሉቱዝ፣ የአውሮፕላን ሁነታ፣ የተንቀሳቃሽ አውታረ መረቦች፣ እና VPNዎችን ያቀናብሩ</string>
+    <string name="wifi_display_settings_empty_list_wifi_display_disabled">WLAN ስለጠፋ የገመድ አልባ ማሳያ ተሰናክሏል።</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">WLAN ያብሩ</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">የWLAN ቅንብሮች</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_setup_wizard_title">WLAN ይምረጡ</string>
+    <string name="wifi_starting">WLAN በማብራት ላይ...</string>
+    <string name="wifi_stopping">WLAN በማጥፋት ላይ...</string>
+    <string name="wifi_poor_network_detection_summary">ጥሩ የበይነመረብ ግንኙነት ከሌለው በስተቀር የWLAN አውታረ መረብ አይጠቀሙ</string>
+    <string name="wifi_scan_always_available_summary">የGoogle የአካባቢ አገልግሎትን እና ሌሎች መተግበሪያዎች አውታረ መረቦችን ለማግኘት እንዲቃኙ ያድርጓቸው፣ WLAN ጠፍቶም ቢሆን እንኳን</string>
+    <string name="wifi_scan_notify_text_location_on">የአካባቢ ትክክለኛነትን ለማሻሻል እና ለሌሎች ዓላማዎች Google እና ሌሎች መተግበሪያዎች አጠገብ ያሉ አውታረ መረቦችን ሊቃኙ ይችላሉ፣ WLAN ጠፍቶ ቢሆንም እንኳ። ይሄ እንዲከሰት ካልፈለጉ ወደ የላቀ > መቃኘት ይሂዱ፣ ሁልጊዜ ይገኛል።</string>
+    <string name="wifi_scan_notify_text_location_off">መተግበሪያዎች አጠገብ ያሉ አውታረ መረቦችን ሊቃኙ ይችላሉ፣ WLAN ጠፍቶ ቢሆንም እንኳ። ይሄ እንዲከሰት ካልፈለጉ ወደ የላቀ > መቃኘት ይሂዱ፣ ሁልጊዜ ይገኛል።</string>
+    <string name="wifi_setting_sleep_policy_title">በሚተኛበት WLAN እንደበራ ይቆይ</string>
+    <string name="wifi_suspend_optimizations">የWLAN ማመቻቸት</string>
+    <string name="wifi_suspend_optimizations_summary">WLAN ሲበራ የባትሪ አጠቃቀም ቀንስ</string>
+    <string name="wifi_access_points">የWLAN አውታረ መረቦች</string>
+    <string name="wifi_menu_p2p">WLAN Direct</string>
+    <string name="wifi_empty_list_wifi_off">ያሉ አውታረ መረቦችን ለማየት WLAN ያብሩ።</string>
+    <string name="wifi_empty_list_wifi_on">የWLAN አውታረ መረቦችን በመፈለግ ላይ…</string>
+    <string name="wifi_empty_list_user_restricted">የWLAN አውታረ መረቡን የመቀየር ፍቃድ የሉዎትም።</string>
+    <string name="wifi_required_info_text">መዋቀሩን ለማጠናቀቅ ጡባዊዎ የWLAN መዳረሻ ያስፈልገዋል። ከተዋቀረ በኋላ በተንቀሳቃሽ ስልክ ውሂብ እና WLAN መካከል መቀያየር ይችላሉ።</string>
+    <string name="wifi_wps_setup_title">በWLAN የተጠበቀ ውቅር</string>
+    <string name="wifi_wps_onstart_pbc">በራውተርዎ ላይ ያለውን በWLAN የሚጠበቀው የማወቀሪያ አዝራርን ይጫኑ። «WPS» ሊባል ይችላል ወይም ይሄንን ምልክት ሊያካትት ይችላል፦</string>
+    <string name="wifi_wps_onstart_pin">በWLAN ራውተርዎ ላይ ፒን %1$s ያስገቡ። ማዋቀሩ እስኪጠናቀቅ ድረስ እስከሁለት ደቂቃ ድረስ ሊወስድ ይችላል።</string>
+    <string name="wifi_wps_connected">ከWLAN አውታረ መረብ %s ጋር ተገናኝቷል</string>
+    <string name="wifi_scan_always_turnon_message">"%1$s የአካባቢ ትክክለኛነትን ለማሻሻል እና ለሌሎች ዓላማዎች የአውታረ መረብ መቃኘትን ማብራት ይፈልጋል፣ WLAN ጠፍቶ ቢሆንም እንኳ።
+
+ይሄ ለሁሉም መቃኘት ለሚፈልጉ መተግበሪያዎች ይፈቀድ?"</string>
+    <string name="wifi_connect_failed_message">ስልኩ ከዚህ የWLAN አውታረ መረብ ጋር መገናኘት አልቻለም።</string>
+    <string name="wifi_advanced_titlebar">የላቀ WLAN</string>
+    <string name="wifi_setting_frequency_band_title">የWLAN ድግግሞሽ ድግ</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_tether_checkbox_text">ተንቀሳቃሽ የWLAN መገናኛ ነጥብ</string>
+    <string name="wifi_tether_failed_subtext">የተንቀሳቃሽ የWLAN መገናኛ ነጥብ ስህተት</string>
+    <string name="wifi_tether_configure_ap_text">የWLAN መገናኛ ነጥብ ያዋቅሩ</string>
+    <string name="wifi_tether_configure_subtext">%1$s %2$s ተንቀሳቃሽ የWLAN መገናኛ ነጥብ</string>
+    <string name="status_wifi_mac_address">የWLAN ማክ አድራሻ</string>
+    <string name="location_network_based">የWLAN እና የተንቀሳቃሽ ስልክ አውታረ መረብ አካባቢ</string>
+    <string name="location_neighborhood_level">መተግበሪያዎች አካባቢዎትን በበለጠ ፍጥነት እንዲገምቱ የGoogle የአካባቢ አገልግሎትን ይጠቀሙ። ስም አልባ የአካባቢ ውሂብ ተሰብስቦ ወደ Google ይላካል።</string>
+    <string name="location_neighborhood_level_wifi">አካባቢ በWLAN ይታወቃል</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">WLAN በጊዜ</string>
+    <string name="bluetooth_on_time">WLAN በጊዜ</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">WLANን በማስኬድ ላይ</string>
+    <string name="battery_action_wifi">የWLAN ቅንብሮች</string>
+    <string name="battery_desc_wifi">WLAN የተጠቀመበት የባትሪ መጠን</string>
+    <string name="battery_sugg_wifi">ካልተጠቀምክበት ወይም በሌለበት ቦታ ላይ WLAN ን አጥፋ</string>
+    <string name="gadget_toggle_wifi">የWLAN ቅንብርን በማዘመን ላይ</string>
+    <string name="gadget_state_template">%1$s %2$s</string>
+    <string name="gadget_wifi">WLAN</string>
+    <string name="backup_data_summary">የመተግበሪያ ውሂብ፣ የWLAN ይለፍ ቃላት እና ሌሎች ቅንብሮች በGoogle አገልጋዮች ላይ መጠባበቂያ ያስቀምጡላቸው</string>
+    <string name="backup_erase_dialog_message">የWLAN ይለፍ ቃላትዎን፣ ዕልባቶችዎን፣ ሌሎች ቅንብሮችዎን፣ እና የመተግበሪያ ውሂብዎን መጠባበቂያ መስራት ይቆም፣ እና እንዲሁም በGoogle አገልጋዮች ላይ ያሉ ቅጂዎችም ይሰረዙ?</string>
+    <string name="wifi_setup_title">የWLAN ውቅር</string>
+    <string name="wifi_setup_title_editing_network">ከWLAN አውታረ መረብ %s ጋር ይገናኙ</string>
+    <string name="wifi_setup_title_connecting_network">ከWLAN አውታረ መረብ %s ጋር በመገናኘት ላይ...</string>
+    <string name="wifi_setup_title_connected_network">ከWLAN አውታረ መረብ %s ጋር ተገናኝቷል</string>
+    <string name="wifi_setup_eap_not_supported">በማዋቀር ላይ ሳሉ የEAP WLAN ግንኙነት ማዋቀር አይችሉም። ካዋቀሩ በኋላ ያንን በቅንብሮች > ገመድ አልባ እና አውታረ መረቦች ውስጥ ማድረግ ይችላሉ።</string>
+    <string name="wifi_setup_description_connected">ማዋቀሩን ለመቀጠል <b>ቀጣይ</b>"ን ይንኩ።
+
+ከተለየ የWLAN አውታረ መረብ ጋር ለመገናኘት "<b>ተመለስ</b>ን ይንኩ።</string>
+    <string name="data_usage_menu_show_wifi">የWLAN አጠቃቀም አሳይ</string>
+    <string name="data_usage_disable_wifi_limit">የWLAN ውሂብ ወሰን አዋቅር</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_restrict_background">የተንቀሳቃሽ ስልክ ውሂብ ዳራን ከገደቡ ወደ WLAN አውታረ መረብ ካልተገናኙ በስተቀር አንዳንድ መተግበሪያዎች እና አገልግሎቶች አይሰሩም።</string>
+    <string name="data_usage_restrict_background_multiuser">"የተንቀሳቃሽ ስልክ ውሂብ ዳራን ከገደቡ ወደ WLAN አውታረ መረብ ካልተገናኙ በስተቀር አንዳንድ መተግበሪያዎች እና አገልግሎቶች አይሰሩም።
+
+ይህ ቅንብር እዚህ ስልክ ላይ ያሉት ሁሉም ተጠቃሚዎች ይመለከታቸዋል።"</string>
+    <string name="data_usage_metered_body">የተንቀሳቃሽ መገናኛ ነጥቦች የሆኑ የWLAN አውታረ መረቦችን ይምረጡ። መተግበሪያዎች ጀርባ ውስጥ ሲሆኑ እነዚህን አውታረ መረቦች እንዳይጠቀሙ ሊገደቡ ይችላሉ። እንዲሁም መተግበሪያዎች እነዚህን አውታረ መረቦች ለትልልቅ ውርዶች ከመጠቀማቸው በፊት ሊያስጠናቅቁም ይችላሉ።</string>
+    <string name="data_usage_metered_wifi">የWLAN አውታረ መረቦች</string>
+    <string name="data_usage_metered_wifi_disabled">የተንቀሳቃሽ መገናኛ ነጥቦችን ለመምረጥ WLANን ያንቁ።</string>
+    <string name="user_add_user_message_long">"ተጨማሪ ተጠቃሚዎችን በመፍጠር ይህን መሣሪያ ለሌሎች ሰዎች ማጋራት ይችላሉ። እያንዳንዱ ተጠቃሚ በራሱ መተግበሪያዎች፣ የግድግዳ ወረቀት እና በመሳሰሉት ነገሮች ሊያበጅ የሚችለውን የራሱ ቦታ አለው። ተጠቃሚዎች እንዲሁም ሁሉም ሰው ላይ ተፅዕኖ የሚኖራቸው እንደ WLAN ያሉ የጡባዊ ቅንብሮችን ማስተካከል ይችላሉ።
+
+አንድ አዲስ ተጠቃሚ ከፈጠሩ ያ ሰው በማዋቀር ሂደት ውስጥ ማለፍ አለበት።
+
+ማንኛውም ተጠቃሚ ሌሎች ተጠቃሚዎችን ወክሎ የተዘመኑ የመተግበሪያ ፍቃዶችን ሊቀበል ይችላል።"</string>
+    <string name="restriction_wifi_config_title">WLAN እና ተንቀሳቃሽ ስልክ</string>
+    <string name="restriction_wifi_config_summary">የWLAN እና የተንቀሳቃሽ ስልክ ቅንብሮች መቀየርን ይፍቀዱ</string>
+</resources>

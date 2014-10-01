@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/wireless_networks_settings_title"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <com.sonymobile.settings.preference.IntentPreference android:title="@string/theme_label" android:key="theme" android:summary="@string/theme_summary" settings:dependOnIsValidIntent="true" settings:chooserTitle="@string/theme_dialog_title_select_theme_txt">
+        <intent android:action="com.sonyericsson.theme.intent.action.SET_RUNTIME_THEME" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <PreferenceScreen android:title="@string/wallpaper_settings_title" android:key="wallpaper" android:fragment="com.android.settings.WallpaperTypeSettings" />
+    <com.sonymobile.settings.preference.IntentPreference android:key="preferred_application_settings" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
+        <intent android:targetPackage="com.sonyericsson.docomo.settings" android:targetClass="com.sonyericsson.docomo.settings.PreferredAppSettingActivity" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.IntentPreference android:key="simplehome" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
+        <intent android:targetPackage="com.sonymobile.simplehome" android:targetClass="com.sonymobile.simplehome.home.ui.SetupActivity" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.IntentPreference android:key="lockscreen" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
+        <intent android:action="com.sonyericsson.settings.intent.action.LOCKSCREEN" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.IntentPreference android:key="quick_settings" settings:dependOnResource="@bool/config_showToolsSettings" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
+        <intent android:targetPackage="com.android.systemui" android:targetClass="com.sonymobile.systemui.statusbar.toolssettings.ToolsbarSettings" />
+    </com.sonymobile.settings.preference.IntentPreference>
+</PreferenceScreen>
