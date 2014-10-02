@@ -2488,4 +2488,9 @@ Secured with 802.1x"</string>
     <string name="autostarts_optimize_empty_msg">No optimize the Startup Items</string>
     <string name="autostarts_optimize_btn_title">Optimize the Startup Items</string>
     <string name="autostarts_all_btn_title">Autostarts All Items</string>
+    <string name="cpu_control">CPU Control</string>
+    <string name="cpu_control_summary">Manage CPU frequencies and governor</string>
+    <string name="cpu_stats">CPU Stats</string>
+    <string name="cpu_stats_summary">Monitor CPU usage</string>
+    <string name="cpu_setting_header">System</string>
 </resources>

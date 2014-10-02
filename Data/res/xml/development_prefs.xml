@@ -51,5 +51,13 @@
         <CheckBoxPreference android:title="@string/show_all_anrs" android:key="show_all_anrs" android:summary="@string/show_all_anrs_summary" />
         <CheckBoxPreference android:title="@string/experimental_webview" android:key="experimental_webview" android:summary="@string/experimental_webview_summary" />
     </PreferenceCategory>
+    <PreferenceCategory android:title="@string/cpu_setting_header" android:key="cpu_setting_header">
+        <PreferenceScreen android:title="@string/cpu_control" android:key="cpu_control" android:summary="@string/cpu_control_summary">
+            <intent android:targetPackage="it.sineo.android.noFrillsCPUClassic" android:action="android.intent.action.MAIN" android:targetClass="it.sineo.android.noFrillsCPUClassic.activity.MainActivity" />
+        </PreferenceScreen>
+        <PreferenceScreen android:title="@string/cpu_stats" android:key="cpu_stats" android:summary="@string/cpu_stats_summary">
+            <intent android:targetPackage="com.bvalosek.cpuspy" android:action="android.intent.action.MAIN" android:targetClass="com.bvalosek.cpuspy.ui.HomeActivity" />
+        </PreferenceScreen>
+    </PreferenceCategory>
     <com.sonymobile.settings.preference.IncludePreference settings:include="@xml/somc_add_development_prefs" />
 </PreferenceScreen>
