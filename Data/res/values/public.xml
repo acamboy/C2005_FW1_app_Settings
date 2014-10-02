@@ -272,6 +272,8 @@
     <public type="drawable" name="stamina_list_action_info" id="0x7f0200d7" />
     <public type="drawable" name="stamina_list_bravia" id="0x7f0200da" />
     <public type="drawable" name="stamina_list_xloud" id="0x7f0200e4" />
+    <public type="drawable" name="ic_settings_autostarts" id="0x7f0200ec" />
+    <public type="drawable" name="logo" id="0x7f0200ed" />
     <public type="drawable" name="APKTOOL_DUMMY_0061" id="0x7f020061" />
     <public type="drawable" name="APKTOOL_DUMMY_00e0" id="0x7f0200e0" />
     <public type="mipmap" name="ic_launcher_settings" id="0x7f030000" />
@@ -453,6 +455,9 @@
     <public type="layout" name="wifi_setup_custom_list_item_1" id="0x7f0400b2" />
     <public type="layout" name="wifi_status_test" id="0x7f0400b3" />
     <public type="layout" name="wifi_wps_dialog" id="0x7f0400b4" />
+    <public type="layout" name="logo" id="0x7f0400b5" />
+    <public type="layout" name="manage_autostarts" id="0x7f0400b6" />
+    <public type="layout" name="manage_autostarts_item" id="0x7f0400b7" />
     <public type="layout" name="access_point_category_for_setup_wizard_xl" id="0x7f040000" />
     <public type="layout" name="settings_top_level" id="0x7f04007a" />
     <public type="layout" name="wifi_settings_for_setup_wizard_xl" id="0x7f0400b1" />
@@ -550,6 +555,7 @@
     <public type="xml" name="wifi_settings" id="0x7f05005b" />
     <public type="xml" name="wireless_settings" id="0x7f05005c" />
     <public type="xml" name="xperia_connectivity_settings" id="0x7f05005d" />
+    <public type="xml" name="autostarts_settings_header" id="0x7f05005e" />
     <public type="raw" name="media_volume" id="0x7f060000" />
     <public type="raw" name="tethering_help" id="0x7f060001" />
     <public type="raw" name="tethering_usb_help" id="0x7f060002" />
@@ -2920,6 +2926,15 @@
     <public type="string" name="wifi_menu_auto_connect" id="0x7f070941" />
     <public type="string" name="wifi_menu_disconnect" id="0x7f070942" />
     <public type="string" name="wifi_show_simple_eap_info" id="0x7f070943" />
+    <public type="string" name="autostarts_title" id="0x7f070947" />
+    <public type="string" name="autostarts_allowed" id="0x7f070948" />
+    <public type="string" name="autostarts_prohibited" id="0x7f070949" />
+    <public type="string" name="autostarts_allow_progress_msg" id="0x7f07094a" />
+    <public type="string" name="autostarts_prohibit_progress_msg" id="0x7f07094b" />
+    <public type="string" name="autostarts_empty_msg" id="0x7f07094c" />
+    <public type="string" name="autostarts_optimize_empty_msg" id="0x7f07094d" />
+    <public type="string" name="autostarts_optimize_btn_title" id="0x7f07094e" />
+    <public type="string" name="autostarts_all_btn_title" id="0x7f07094f" />
     <public type="string" name="call_forward_sim1_detected" id="0x7f07082f" />
     <public type="string" name="call_forward_sim2_detected" id="0x7f070830" />
     <public type="string" name="call_forward_input_hint" id="0x7f070831" />
@@ -3623,6 +3638,8 @@
     <public type="id" name="vpn_create" id="0x7f090246" />
     <public type="id" name="vpn_lockdown" id="0x7f090247" />
     <public type="id" name="wifi_wps" id="0x7f090248" />
+    <public type="id" name="autostarts_settings" id="0x7f090249" />
+    <public type="id" name="appName" id="0x7f09024a" />
     <public type="bool" name="has_dock_settings" id="0x7f0a0000" />
     <public type="bool" name="has_silent_mode" id="0x7f0a0001" />
     <public type="bool" name="has_powercontrol_widget" id="0x7f0a0002" />

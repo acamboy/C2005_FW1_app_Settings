@@ -2479,4 +2479,13 @@ Secured with 802.1x"</string>
     <string name="wifi_menu_auto_connect">Auto-connect</string>
     <string name="wifi_menu_disconnect">Disconnect network</string>
     <string name="wifi_show_simple_eap_info">Use EAP-PEAP simplified setup method</string>
+    <string name="autostarts_title">Autostarts</string>
+    <string name="autostarts_allowed">Has allowed</string>
+    <string name="autostarts_prohibited">Has Prohibited</string>
+    <string name="autostarts_allow_progress_msg">Being Boot restored, Please wait ...</string>
+    <string name="autostarts_prohibit_progress_msg">Prohibit Boot, Please wait ...</string>
+    <string name="autostarts_empty_msg">No Installation Boot applications</string>
+    <string name="autostarts_optimize_empty_msg">No optimize the Startup Items</string>
+    <string name="autostarts_optimize_btn_title">Optimize the Startup Items</string>
+    <string name="autostarts_all_btn_title">Autostarts All Items</string>
 </resources>
