@@ -160,7 +160,7 @@
 
     move-result-object v5
 
-    const v6, 0x7f0400b7
+    const v6, 0x7f0400b7 #manage_autostarts_item
 
     const/4 v7, 0x0
 
@@ -170,7 +170,7 @@
 
     .line 306
     :cond_11
-    const v5, 0x7f090026
+    const v5, 0x7f090026 #icon
 
     invoke-virtual {p2, v5}, Landroid/view/View;->findViewById(I)Landroid/view/View;
 
@@ -191,7 +191,7 @@
     invoke-virtual {v3, v2}, Landroid/widget/ImageView;->setImageDrawable(Landroid/graphics/drawable/Drawable;)V
 
     .line 309
-    const v5, 0x7f09024a
+    const v5, 0x7f09024a #appName
 
     invoke-virtual {p2, v5}, Landroid/view/View;->findViewById(I)Landroid/view/View;
 
@@ -213,7 +213,7 @@
     invoke-virtual {v0, v8}, Landroid/widget/TextView;->setSingleLine(Z)V
 
     .line 312
-    const v5, 0x7f090016
+    const v5, 0x7f090016 #status
 
     invoke-virtual {p2, v5}, Landroid/view/View;->findViewById(I)Landroid/view/View;
 
@@ -232,7 +232,7 @@
     invoke-virtual {v4, v5}, Landroid/widget/TextView;->setText(Ljava/lang/CharSequence;)V
 
     .line 315
-    const v5, 0x7f0900ba
+    const v5, 0x7f0900ba #app_on_sdcard
 
     invoke-virtual {p2, v5}, Landroid/view/View;->findViewById(I)Landroid/view/View;
 

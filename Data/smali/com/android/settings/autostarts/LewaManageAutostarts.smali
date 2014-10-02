@@ -187,7 +187,7 @@
 
     const/4 v1, 0x0
 
-    const v2, 0x7f07094b
+    const v2, 0x7f07094b #autostarts_prohibit_progress_msg
 
     invoke-virtual {p0, v2}, Lcom/android/settings/autostarts/LewaManageAutostarts;->getString(I)Ljava/lang/String;
 
@@ -302,7 +302,7 @@
 
     iget-object v4, v4, Landroid/content/pm/ActivityInfo;->name:Ljava/lang/String;
 
-    const v5, 0x7f070948
+    const v5, 0x7f070948 #autostarts_allowed
 
     invoke-virtual {p0, v5}, Lcom/android/settings/autostarts/LewaManageAutostarts;->getString(I)Ljava/lang/String;
 
@@ -398,7 +398,7 @@
 
     iget-object v8, v1, Landroid/content/pm/ActivityInfo;->name:Ljava/lang/String;
 
-    const v1, 0x7f070949
+    const v1, 0x7f070949 #autostarts_prohibited
 
     invoke-virtual {p0, v1}, Lcom/android/settings/autostarts/LewaManageAutostarts;->getString(I)Ljava/lang/String;
 
@@ -609,7 +609,7 @@
     .line 90
     .end local v0    # "textId":I
     :cond_1a
-    const v0, 0x7f07094e
+    const v0, 0x7f07094e #autostarts_optimize_btn_title
 
     goto :goto_9
 .end method
@@ -629,7 +629,7 @@
     .line 121
     iget-object v0, p0, Lcom/android/settings/autostarts/LewaManageAutostarts;->mLayoutInflater:Landroid/view/LayoutInflater;
 
-    const v1, 0x7f0400b6
+    const v1, 0x7f0400b6 #manage_autostarts
 
     invoke-virtual {v0, v1, v2}, Landroid/view/LayoutInflater;->inflate(ILandroid/view/ViewGroup;)Landroid/view/View;
 
@@ -685,7 +685,7 @@
     .line 128
     iget-object v0, p0, Lcom/android/settings/autostarts/LewaManageAutostarts;->emptyView:Landroid/widget/TextView;
 
-    const v1, 0x7f07094c
+    const v1, 0x7f07094c #autostarts_empty_msg
 
     invoke-virtual {v0, v1}, Landroid/widget/TextView;->setText(I)V
 
@@ -762,14 +762,14 @@
     .line 103
     iget-object v1, p0, Lcom/android/settings/autostarts/LewaManageAutostarts;->menuItem:Landroid/view/MenuItem;
 
-    const v2, 0x7f07094e
+    const v2, 0x7f07094e #autostarts_optimize_btn_title
 
     invoke-interface {v1, v2}, Landroid/view/MenuItem;->setTitle(I)Landroid/view/MenuItem;
 
     .line 104
     iget-object v1, p0, Lcom/android/settings/autostarts/LewaManageAutostarts;->emptyView:Landroid/widget/TextView;
 
-    const v2, 0x7f07094c
+    const v2, 0x7f07094c #autostarts_empty_msg
 
     invoke-virtual {v1, v2}, Landroid/widget/TextView;->setText(I)V
 
@@ -789,14 +789,14 @@
     .line 108
     iget-object v1, p0, Lcom/android/settings/autostarts/LewaManageAutostarts;->menuItem:Landroid/view/MenuItem;
 
-    const v2, 0x7f07094f
+    const v2, 0x7f07094f #autostarts_all_btn_title
 
     invoke-interface {v1, v2}, Landroid/view/MenuItem;->setTitle(I)Landroid/view/MenuItem;
 
     .line 109
     iget-object v1, p0, Lcom/android/settings/autostarts/LewaManageAutostarts;->emptyView:Landroid/widget/TextView;
 
-    const v2, 0x7f07094d
+    const v2, 0x7f07094d #autostarts_optimize_empty_msg
 
     invoke-virtual {v1, v2}, Landroid/widget/TextView;->setText(I)V
 
@@ -828,7 +828,7 @@
 
     const/4 v1, 0x0
 
-    const v2, 0x7f07094a
+    const v2, 0x7f07094a #autostarts_allow_progress_msg
 
     invoke-virtual {p0, v2}, Lcom/android/settings/autostarts/LewaManageAutostarts;->getString(I)Ljava/lang/String;
 
