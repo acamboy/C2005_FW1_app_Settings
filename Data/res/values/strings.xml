@@ -2493,4 +2493,6 @@ Secured with 802.1x"</string>
     <string name="cpu_stats">CPU Stats</string>
     <string name="cpu_stats_summary">Monitor CPU usage</string>
     <string name="cpu_setting_header">System</string>
+    <string name="ram_bar_on_recent">Ram usage on recent apps</string>
+	<string name="ram_bar_on_recent_summary">Enable ram usage on recent apps</string>
 </resources>
