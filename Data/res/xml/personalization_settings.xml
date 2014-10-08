@@ -18,5 +18,4 @@
     <com.sonymobile.settings.preference.IntentPreference android:key="quick_settings" settings:dependOnResource="@bool/config_showToolsSettings" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
         <intent android:targetPackage="com.android.systemui" android:targetClass="com.sonymobile.systemui.statusbar.toolssettings.ToolsbarSettings" />
     </com.sonymobile.settings.preference.IntentPreference>
-    <PreferenceScreen android:title="@string/ram_bar_on_recent" android:key="rambar_settings" android:summary="@string/ram_bar_on_recent_summary" android:fragment="com.android.settings.recent.RamProgressBar" />
 </PreferenceScreen>
