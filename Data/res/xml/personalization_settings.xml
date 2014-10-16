@@ -17,5 +17,8 @@
     </com.sonymobile.settings.preference.IntentPreference>
     <com.sonymobile.settings.preference.IntentPreference android:key="quick_settings" settings:dependOnResource="@bool/config_showToolsSettings" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
         <intent android:targetPackage="com.android.systemui" android:targetClass="com.sonymobile.systemui.statusbar.toolssettings.ToolsbarSettings" />
+    </com.sonymobile.settings.preference.IntentPreference>    
+	<com.sonymobile.settings.preference.IntentPreference android:key="notifications" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
+        <intent android:targetPackage="com.sonyericsson.settings" android:targetClass="com.sonymobile.settings.notifications.NotificationSettings" />
     </com.sonymobile.settings.preference.IntentPreference>
 </PreferenceScreen>
