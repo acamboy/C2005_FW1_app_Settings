@@ -21,4 +21,7 @@
 	<com.sonymobile.settings.preference.IntentPreference android:key="notifications" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
         <intent android:targetPackage="com.sonyericsson.settings" android:targetClass="com.sonymobile.settings.notifications.NotificationSettings" />
     </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.IntentPreference android:key="home_settings" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
+        <intent android:targetPackage="com.sonymobile.home.settings" android:targetClass="com.sonymobile.home.settings.HomeSettingsActivity" />
+    </com.sonymobile.settings.preference.IntentPreference>
 </PreferenceScreen>
